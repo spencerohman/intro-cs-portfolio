@@ -54,3 +54,4 @@ progress { width: min(100%, 28rem); accent-color: var(--accent); }
   html { scroll-behavior: auto; }
   article { transition: none; }
 }
+article { border-radius: 2rem; }
